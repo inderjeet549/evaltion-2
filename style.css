@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+
+}
+header{
+    margin: 5%;
+    padding: 5%;
+    align-self: center;
+    align-items: center;
+    position:static;
+    top: 0px;
+}
+nav{
+    padding: 10px;
+    margin: 10px;
+}
+nav a:active{
+    color: rgb(0,0,238);
+}
+nav a:visited{
+    color: rgb(0,0,238);
+}
